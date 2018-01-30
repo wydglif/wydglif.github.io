@@ -4,3 +4,22 @@ p {
 .special{
   background-color: palegreen
 }
+
+.social{
+  display:inline-block;
+}
+
+.social:hover li{
+  display:block;
+}
+.social li{
+  display:none;
+}
+.social{
+  display:inline;
+}
+body {
+  background-image: url("merry christmas.gif");
+  background-color: #cccccc
+}
+}
