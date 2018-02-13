@@ -21,3 +21,8 @@ p {
 body {
   background-color: #cccccc
 }
+
+button{
+  color: yellow;
+  background-color: black
+}
