@@ -10,7 +10,7 @@ function math(num1, num2, sign){
   var num2 = prompt("enter a 2nd number");
 
     if (sign == "-"){
-      alert("The answe is "+(num1-num2));
+      alert("The answer is "+(num1-num2));
     }
     if (sign== "+"){
       add=num1 - (-num2)
